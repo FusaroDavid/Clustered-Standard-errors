@@ -1,0 +1,2 @@
+# Clustered-Standard-errors
+Hello!!! I'd be very grateful if someone could please help to figure out one doubt. I'm running a fixed effects model at firm-product-country-year level. Thus, I have several observations by firm over time. I want to take into account serial correlation within each firm and over time. I would like to know the difference between vce(cluster firm year) and vce(cluster firm#year). Many thanks
